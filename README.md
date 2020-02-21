@@ -5,5 +5,6 @@ This is implemented using a simple 2D grid which is rotated over the z-axis, whi
 
 Includes 2 coloring schemes - default includes snow, grass & see, second mode includes flying over seas.
 
+<img src="https://github.com/caluser/Terrain_Generator/blob/master/Screenshots/terrain_ss.png" width="100" height="100">
 ![Mode_1](https://github.com/caluser/Terrain_Generator/blob/master/Screenshots/terrain_ss.png){:height="50%" width="50%"}
 ![Mode_2](https://github.com/caluser/Terrain_Generator/blob/master/Screenshots/terrain_ss2.png)
